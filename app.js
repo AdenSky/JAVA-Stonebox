@@ -1,4 +1,4 @@
-// alert("Hello")
+// alert("Hello World")
 // Log to consolconsole.log("Hello world")
 
 /*
